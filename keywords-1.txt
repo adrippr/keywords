@@ -1,3 +1,0 @@
-keyword one
-keyword two
-keyword three
